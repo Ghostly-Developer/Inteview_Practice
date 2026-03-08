@@ -1,0 +1,19 @@
+Good Link: 
+    https://github.com/TechieContent/Low-Level-Design/tree/main
+    https://github.com/kumaransg/LLD/tree/main
+
+Diagram : 
+    https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master/object-oriented-design-case-studies
+
+LLD Todo :
+    1. ATM Machine
+    2. Elevator
+    3. Food Ordering
+    4. Hotel Booking
+    5. Movie Ticket Booking
+    6. Parking lot
+    7. SplitWise
+    8. Shopping Website
+    9. 
+    10.
+    ........................
