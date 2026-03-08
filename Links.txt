@@ -1,0 +1,15 @@
+Interview Support :
+https://ak67373.medium.com/how-to-prepare-for-an-sde-2-3-interview-dsa-lld-hld-hm-4f03db2a838c
+
+
+LLD Git : 
+    https://github.com/TechieContent/Low-Level-Design/tree/main
+    https://github.com/kumaransg/LLD/tree/main
+    https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master
+    https://github.com/gopalbala?tab=repositories
+
+https://medium.com/@kavya1234/splitwise-low-level-design-lld-54e33281f35c
+https://medium.com/@techiecontent/day-28-lld-design-atm-machine-java-code-e20d16df47b4
+
+
+HLD vs LLD : https://medium.com/@anas-issath/lld-and-hld-in-software-engineering-f94c97bd6868
